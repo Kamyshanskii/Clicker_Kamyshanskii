@@ -5,7 +5,7 @@
 
 открывается localhost с запущеным в момент открытия автокликером
 
-![image](https://user-images.githubusercontent.com/100721529/194036739-52c93d7e-215e-4a60-ada8-fc96ac5d2f58.png)
+![image](https://user-images.githubusercontent.com/100721529/194039155-538a8a40-2bb2-4335-8de2-ca63719b5255.png)
 
 - Функционал:
   1) Нажатие на "hand_change" увеличивает счет на HandDelta, изначально равный 1
@@ -14,4 +14,4 @@
   4) Анимированный фон
  
 - Спустя какое-то время интерфейс выглядит так:
-  ![image](https://user-images.githubusercontent.com/100721529/194038180-e3db6d07-996f-4423-a44a-63d27613d972.png)
+![image](https://user-images.githubusercontent.com/100721529/194039334-bd368859-5419-4ed5-b7ea-1819974c8f33.png)
